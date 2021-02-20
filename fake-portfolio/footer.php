@@ -1,0 +1,1 @@
+<h4 class="text-center text-sm my-20">© <?php include "data.php"; echo $user["name"]; echo " - "; echo $date ?></h4>
